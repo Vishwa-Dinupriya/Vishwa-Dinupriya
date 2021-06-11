@@ -1,7 +1,8 @@
 ### Hi there 👋
   
 
-
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://github.com/Vishwa-Dinupriya/Vishwa-Dinupriya/blob/main/vishwa%20banner.PNG)
 
 <h3 align="center">I'm Vishwa Dinupriya from Weligama, Sri Lanka and I do Web development. I really enjoyed learning languages and frameworks like Angular, and React native. Also, I'm looking for an internship to grow as a professional IT enthusiast.</h3>
 
