@@ -2,7 +2,7 @@
   
 
 
-![I am GitHub Readme Generator's creator](https://github.com/Vishwa-Dinupriya/Vishwa-Dinupriya/blob/main/vishwa%20banner.PNG)
+<!-- ![I am GitHub Readme Generator's creator](https://github.com/Vishwa-Dinupriya/Vishwa-Dinupriya/blob/main/vishwa%20banner.PNG) -->
 <h3>Thanks for visiting my Github profile!</h3>
 <h4 >I'm Vishwa Dinupriya from Weligama, Sri Lanka. I really enjoyed learning languages and frameworks like Angular, and Express js. </h4>
 - 🔭 I’m currently Undergraduate at University of Moratuwa
